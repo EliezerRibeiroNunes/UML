@@ -1,1 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2020-09-30T03:35:54.792Z" agent="5.0 (Windows)" version="13.7.6" etag="v7pqyTmfS8phg5_yx1_-" type="github"><diagram id="7g2I_QNcWCWWX-becYV0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-30T03:41:21.337Z" agent="5.0 (Windows)" etag="2qX-g0iTfI4IqkjA0Z3u" version="13.7.6" type="github">
+  <diagram id="7g2I_QNcWCWWX-becYV0" name="Page-1">
+    <mxGraphModel dx="862" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="w9FCc9lGIfQX8OlM8jBC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w9FCc9lGIfQX8OlM8jBC-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w9FCc9lGIfQX8OlM8jBC-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="315" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w9FCc9lGIfQX8OlM8jBC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w9FCc9lGIfQX8OlM8jBC-3" target="w9FCc9lGIfQX8OlM8jBC-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="525" y="345" />
+              <mxPoint x="525" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w9FCc9lGIfQX8OlM8jBC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w9FCc9lGIfQX8OlM8jBC-3" target="w9FCc9lGIfQX8OlM8jBC-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w9FCc9lGIfQX8OlM8jBC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w9FCc9lGIfQX8OlM8jBC-3" target="w9FCc9lGIfQX8OlM8jBC-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w9FCc9lGIfQX8OlM8jBC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w9FCc9lGIfQX8OlM8jBC-3" target="w9FCc9lGIfQX8OlM8jBC-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w9FCc9lGIfQX8OlM8jBC-3" value="Alugar Bicicleta" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="310" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w9FCc9lGIfQX8OlM8jBC-5" value="Escolher modelo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="255" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w9FCc9lGIfQX8OlM8jBC-7" value="Escolher Cor" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="150" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w9FCc9lGIfQX8OlM8jBC-8" value="Dados cadastrais" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="360" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w9FCc9lGIfQX8OlM8jBC-9" value="Pagar taxa de alocação" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="470" width="140" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
